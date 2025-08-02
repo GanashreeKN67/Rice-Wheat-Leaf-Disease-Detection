@@ -93,6 +93,6 @@ streamlit run main.py
 - Evaluation Metrics: Accuracy, Precision, Recall, F1-score
 
 ## Contact
-Ganashree K N
-ganashree99045@gmail.com
-https://www.linkedin.com/in/ganashree-k-n-37a53633b/
+Ganashree K N  
+ganashree99045@gmail.com  
+https://www.linkedin.com/in/ganashree-k-n-37a53633b/  
